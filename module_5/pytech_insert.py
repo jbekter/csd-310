@@ -13,7 +13,7 @@ db = client.pytech
 #insert 3 student names
 
 josh = {
-    "student_id": 596,
+    "student_id": "596",
     "first_name": "Josh",
     "last_name": "Boettcher",
     "enrollments": [
@@ -24,13 +24,13 @@ josh = {
             "end_date": "12/21/2021",
             "courses": [
                 {
-                    "course_id": 965,
+                    "course_id": "965",
                     "description": "Java",
                     "instructor": "Professor Payne",
                     "grade": "A"
                 },
                 {
-                    "course_id": 978,
+                    "course_id": "978",
                     "description": "Database Development",
                     "instructor": "Professor Shelanskey",
                     "grade": "A"
@@ -42,7 +42,7 @@ josh = {
 }
 
 jim = {
-    "student_id": 19,
+    "student_id": "19",
     "first_name": "Jim",
     "last_name": "Gatkins",
     "enrollments": [
@@ -53,13 +53,13 @@ jim = {
             "end_date": "9/30/2021",
             "courses": [
                 {
-                    "course_id": 716,
+                    "course_id": "716",
                     "description": "Art History",
                     "instructor": "Professor Hawthorne",
                     "grade": "B"
                 },
                 {
-                    "course_id": 768,
+                    "course_id": "768",
                     "description": "Painting",
                     "instructor": "Professor Mondo",
                     "grade": "A"
@@ -70,7 +70,7 @@ jim = {
 }
 
 peter = {
-    "student_id": 654,
+    "student_id": "654",
     "first_name": "Peter",
     "last_name": "Thomas",
     "enrollments": [
@@ -81,13 +81,13 @@ peter = {
             "end_date": "12/21/2021",
             "courses": [
                 {
-                    "course_id": 876,
+                    "course_id": "876",
                     "description": "Algebra",
                     "instructor": "Professor Smith",
                     "grade": "B"
                 },
                 {
-                    "course_id": 950,
+                    "course_id": "950",
                     "description": "Stastics",
                     "instructor": "Professor Fielder",
                     "grade": "B"
