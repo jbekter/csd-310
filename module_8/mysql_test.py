@@ -1,6 +1,7 @@
 #Josh Boettcher
 #11/26/2021
 #Module 8.2
+#Used Proffesor Krasso's code per instruction in module 8.2
 
 #import
 import mysql.connector
