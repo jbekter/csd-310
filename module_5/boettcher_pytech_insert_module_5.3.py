@@ -13,7 +13,7 @@ db = client.pytech
 #insert 3 student names
 
 josh = {
-    "student_id": "596",
+    "student_id": "1007",
     "first_name": "Josh",
     "last_name": "Boettcher",
     "enrollments": [
@@ -42,7 +42,7 @@ josh = {
 }
 
 jim = {
-    "student_id": "19",
+    "student_id": "1008",
     "first_name": "Jim",
     "last_name": "Gatkins",
     "enrollments": [
@@ -70,7 +70,7 @@ jim = {
 }
 
 peter = {
-    "student_id": "654",
+    "student_id": "1009",
     "first_name": "Peter",
     "last_name": "Thomas",
     "enrollments": [
