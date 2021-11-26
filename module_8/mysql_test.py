@@ -1,6 +1,7 @@
 #Josh Boettcher
 #11/26/2021
 #Module 8.2
+#used Professor Krasso's code per instructions in module 8.2
 
 #import
 import mysql.connector
@@ -15,7 +16,6 @@ config = {
     "database": "pysports",
     "raise_on_warnings": True
 }
-
 
 #Connection test code
 try:
@@ -37,4 +37,4 @@ except mysql.connector.Error as err:
         print(err)
 finally:
     db.close()
-    
+
